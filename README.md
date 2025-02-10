@@ -1,5 +1,5 @@
 <h1 align="center">🐍 Don't tread on me</h1>
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/c9501acb-e1ae-4efb-bb44-b209f3c9b4d6">
+  <img src="https://github.com/user-attachments/assets/ba2d0a53-28b8-44e9-b63c-1e45d74dc65a">
 </div>
 
